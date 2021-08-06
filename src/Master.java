@@ -4,5 +4,6 @@ public class Master {
         System.out.println("if it doesn't work out again now, I'll go to bed. :P");
         System.out.println("начал делать правую ветку");
         System.out.println("второй коммит правой ветки");
+//      просто комент
     }
 }
